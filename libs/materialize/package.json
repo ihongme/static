@@ -3,8 +3,8 @@
   "filename": "css/materialize.min.css",
   "description": "Builds Materialize distribution packages",
   "author": "Alvin Wang, Alan Chang",
-  "url": "http://materializecss.com/",
-  "version": "0.97.7",
+  "url": "http://next.materializecss.com/",
+  "version": "1.0.0-alpha.4",
   "dependencies": {
     "grunt": "0.x.x",
     "grunt-contrib-clean": "0.5.x",
@@ -33,6 +33,11 @@
       "font/*/*.ttf",
       "font/*/*.woff",
       "font/*/*.woff2",
+      "fonts/*/*.eot",
+      "fonts/*/*.svg",
+      "fonts/*/*.ttf",
+      "fonts/*/*.woff",
+      "fonts/*/*.woff2",
       "js/*"
     ]
   }
